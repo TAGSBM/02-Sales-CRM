@@ -1,0 +1,2 @@
+import tag_custom_crm_lead
+import tag_custom_partner
