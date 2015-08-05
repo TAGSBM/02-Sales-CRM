@@ -69,7 +69,8 @@
                     </page>
 	
 	<page string="Communications">
-				        <field name="comment" placeholder="Put an internal note..."/>		
+				        <field name="comment" placeholder="Put an internal note..."/>	
+				        <button name='%(mail.action_email_compose_message_wizard)d' string="Send Email" type="action" class="oe_highlight"  />
 	                                <div class="oe_chatter">
 	                                    
 	                                    <field name="message_follower_ids" widget="mail_followers"/>
